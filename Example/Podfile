@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'SweetStringInterpolation_Example' do
+  pod 'SweetStringInterpolation', :path => '../'
+
+  target 'SweetStringInterpolation_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
