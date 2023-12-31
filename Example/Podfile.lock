@@ -1,0 +1,16 @@
+PODS:
+  - SweetStringInterpolation (0.1.0)
+
+DEPENDENCIES:
+  - SweetStringInterpolation (from `../`)
+
+EXTERNAL SOURCES:
+  SweetStringInterpolation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SweetStringInterpolation: e341bbd545549265fa912da811f4dcfc55214787
+
+PODFILE CHECKSUM: 0bcdb17d79b4d615c905df8d3e1bfa99d90bd032
+
+COCOAPODS: 1.14.3

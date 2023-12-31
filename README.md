@@ -1,6 +1,6 @@
 # SweetStringInterpolation
 
-[![CI Status](https://img.shields.io/travis/kensou/SweetStringInterpolation.svg?style=flat)](https://travis-ci.org/kensou/SweetStringInterpolation)
+[![CI Status](https://img.shields.io/travis/alexwind/SweetStringInterpolation.svg?style=flat)](https://travis-ci.org/alexwind/SweetStringInterpolation)
 [![Version](https://img.shields.io/cocoapods/v/SweetStringInterpolation.svg?style=flat)](https://cocoapods.org/pods/SweetStringInterpolation)
 [![License](https://img.shields.io/cocoapods/l/SweetStringInterpolation.svg?style=flat)](https://cocoapods.org/pods/SweetStringInterpolation)
 [![Platform](https://img.shields.io/cocoapods/p/SweetStringInterpolation.svg?style=flat)](https://cocoapods.org/pods/SweetStringInterpolation)
@@ -22,7 +22,7 @@ pod 'SweetStringInterpolation'
 
 ## Author
 
-kensou, leon503@163.com
+alexwind, alexwind.lin@gmail.com
 
 ## License
 
