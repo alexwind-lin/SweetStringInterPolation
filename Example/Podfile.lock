@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SweetStringInterpolation: e341bbd545549265fa912da811f4dcfc55214787
+  SweetStringInterpolation: 6c8abd7fa8c9b466d1bc0ee9c93ce63b8c4416a3
 
 PODFILE CHECKSUM: 0bcdb17d79b4d615c905df8d3e1bfa99d90bd032
 

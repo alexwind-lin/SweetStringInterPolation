@@ -311,13 +311,12 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
-			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-SweetStringInterpolation_Example/Pods-SweetStringInterpolation_Example-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/SweetStringInterpolation/SweetStringInterpolation.framework",
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-SweetStringInterpolation_Example/Pods-SweetStringInterpolation_Example-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SweetStringInterpolation.framework",
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-SweetStringInterpolation_Example/Pods-SweetStringInterpolation_Example-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
